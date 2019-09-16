@@ -1,3 +1,7 @@
+//You can use this as referemce/ resource. I saw this online link https://www.etutorialspoint.com/index.php/51-php-file-based-authentication
+
+
+
 <?php
 function check_password($username, $password){
     $pwd_file = 'auth.txt';
