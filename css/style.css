@@ -1,0 +1,55 @@
+html,
+body {
+    background-color: #fff;
+    color: #555555;
+    font-family: 'Century Gothic', 'Arial', sans-serif;
+    text-rendering: optimizeLegibility;
+}
+
+.form-img {
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.14)), to(rgba(0, 0, 0, 0.36))), url(https://res.cloudinary.com/anikriz/image/upload/v1568650685/HNG%20%7CStartng%20Internship/Optimized-bg-img_pxjje8.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.14), rgba(0, 0, 0, 0.36)), url(https://res.cloudinary.com/anikriz/image/upload/v1568650685/HNG%20%7CStartng%20Internship/Optimized-bg-img_pxjje8.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.parent{
+    height: 100vh;
+}
+.insideParent{
+    height: 80vh;
+    width: 100%;
+}
+
+.right-side {
+    padding: 40px;
+}
+
+.input-field {
+    height: 50px;
+}
+
+.submit-button {
+    border-radius: 50px;
+    border: 1px solid #000;
+}
+
+.submit-button:hover {
+    background-color: #E67E22;
+    color: #fff;
+}
+
+.reset-pwd a {
+    text-decoration: none;
+    color: #000;
+}
+
+.reset-pwd a:hover {
+    text-decoration: none;
+    color: #E67E22;
+}
+
+.sign-up a {
+    text-decoration: none;
+    color: #E67E22;
+}
