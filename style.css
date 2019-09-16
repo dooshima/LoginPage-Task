@@ -1,0 +1,12 @@
+
+.parent{
+    height: 100vh;
+}
+.insideParent{
+    height: 80vh;
+}
+
+h4{
+    padding: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
